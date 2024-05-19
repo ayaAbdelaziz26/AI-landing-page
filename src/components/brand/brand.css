@@ -1,0 +1,10 @@
+.gpt3--brand{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.gpt3--brand div{
+    padding: 1rem;
+}
